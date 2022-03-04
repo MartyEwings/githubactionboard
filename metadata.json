@@ -1,10 +1,11 @@
 {
-  "name": "puppetlabs-githubactionboard",
+  "name": "martyewings-githubactionboard",
   "version": "0.1.0",
   "author": "Marty Ewings",
-  "summary": "",
+  "summary": "Starts a dashboard for monitoring github action results",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/MartyEwings/githubactionboard.git",
+  "issues_url": "https://github.com/MartyEwings/githubactionboard/issues",
   "dependencies": [
     {
       "name": "puppetlabs/docker",
